@@ -1,5 +1,5 @@
 # An analysis on Spotify Tracks
-An analysis on a dataset of 160k spotify tracks from 1921-2020. Done as part of Udacity's Data Science Nanodegree, project 1.
+An analysis on a dataset of 160k spotify tracks from 1921-2020. 
 
 ## Data Source
 https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
@@ -25,12 +25,7 @@ With these 2 goals in mind, I decided to analyze the dataset and find the answer
 ```
 Specific version can be found on requirements.txt
 
-## Folder Structure 
-```
-spotify_analysis
-|_data.csv              # Data for analysis
-|_requirements.txt      # Libraries and versions used
-|_udacity_project.ipynb # IPYNB notebook containing analysis code, graphs, etc.
+
 ```
 ## Usage
 
@@ -42,14 +37,9 @@ spotify_analysis
 6. `pip install -r requirements.txt`      #install dependencies
 7. Run the cells of udacity_project.ipynb #Make sure to change input paths accordingly
 
-## Blog Post
-https://andrew-william.medium.com/using-data-to-show-why-adele-is-an-amazing-singer-musician-6de886d80e61
 
-## Acknowledgements
 
-Kaggle for providing kernels to do analysis on. 
-Spotify for providing documentation for the data.
-[Yamaç Eren Ay](https://www.kaggle.com/yamaerenay) for putting together the spotify 160k track dataset.
+
 
 
 
